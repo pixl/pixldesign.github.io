@@ -8,9 +8,8 @@
 */
 /* Basic */
 html {
-  background-color: #313a3d;
-  background-attachment: fixed,						fixed;
   background-color: #00A6AC;
+  background-attachment: fixed,						fixed;
   background-position: top left,					center center;
   background-repeat: repeat,						none;
   background-size: auto,						cover; }
